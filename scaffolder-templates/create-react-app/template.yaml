@@ -8,7 +8,7 @@ metadata:
     - react
     - cra
 spec:
-  owner: temp-admin
+  owner: group:default/admins
   type: website
   parameters:
     - title: Provide some simple information
